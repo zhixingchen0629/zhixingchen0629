@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![zhixingchen0629's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhixingchen0629&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/zhixingchen0629/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixingchen0629&layout=compact&theme=tokyonight)
+
 <!--
 **zhixingchen0629/zhixingchen0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
