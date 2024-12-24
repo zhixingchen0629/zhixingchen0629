@@ -1,5 +1,5 @@
 ## Hi there 👋, I am zhixingchen
-- 💻 backend developer in Asia
+- 💻 backend developer in Tencent
 - 📫 How to reach me: zhixingchen0629@163.com
 - 🎙️ Focus! English by default
   
