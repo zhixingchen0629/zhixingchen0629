@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack & Expertise
 - **Recommendation Algorithms**: Collaborative Filtering, Deep Learning (Wide&Deep, DIN, MMoE), Multi-task Learning
 - **Big Data & ML**: TensorFlow, PyTorch, Spark, Flink, Airflow, Feature Engineering
-- **Backend Systems**: Go, Python, Java, Redis, Kafka, distributed microservices
+- **Backend Systems**: CPP, Go, Python, Redis, Kafka, distributed microservices
 - **Infrastructure**: Docker, Kubernetes, monitoring systems, A/B testing platforms
 
 ### 🎯 Current Focus
