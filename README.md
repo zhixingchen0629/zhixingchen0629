@@ -16,6 +16,7 @@
 Building comprehensive learning resources for recommendation systems architecture to help engineers master end-to-end recommendation solutions.
 
 ---
+
 ### 📊 Professional Journey
 ```mermaid
 timeline
@@ -29,6 +30,8 @@ timeline
     2025-Now  : Tencent Video Channel
               : Recommendation backend
               : Real-time systems
+```
+
 --- 
 
 Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/zhixingchen0629/count.svg) visitor. Thank you for stopping by! 🎉
