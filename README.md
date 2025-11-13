@@ -1,23 +1,38 @@
 ## Hi there 👋, I am zhixingchen
-- 💻 backend developer in Tencent
-- 📫 How to reach me: zhixingchen0629@163.com
-- 🎙️ Focus! English by default
-  
-Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/zhixingchen0629/count.svg) visitor, Thank You!🎉🎉
+- 🏢 **Senior Backend Engineer** specializing in **Recommendation Systems** at Tencent
+- 🚀 **Experience**: Baidu Recommendation Architecture → Tencent Gaming Platform → Tencent Video Channel Recommendation
+- 🎯 **Expertise**: Large-scale recommendation systems, distributed architecture, real-time computing
+- 💡 **Focus**: Building high-performance recommendation engines serving millions of users
+- 📫 **Contact**: zhixingchen0629@163.com
+- 🌟 **Languages**: Chinese (Native) | English (Professional)
+
+### 🛠️ Tech Stack & Expertise
+- **Recommendation Algorithms**: Collaborative Filtering, Deep Learning (Wide&Deep, DIN, MMoE), Multi-task Learning
+- **Big Data & ML**: TensorFlow, PyTorch, Spark, Flink, Airflow, Feature Engineering
+- **Backend Systems**: Go, Python, Java, Redis, Kafka, distributed microservices
+- **Infrastructure**: Docker, Kubernetes, monitoring systems, A/B testing platforms
+
+### 🎯 Current Focus
+Building comprehensive learning resources for recommendation systems architecture to help engineers master end-to-end recommendation solutions.
+
+---
+
+Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/zhixingchen0629/count.svg) visitor. Thank you for stopping by! 🎉
 
 ![zhixingchen0629's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhixingchen0629&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixingchen0629&layout=compact&theme=tokyonight)
 
-<!--
-**zhixingchen0629/zhixingchen0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Professional Journey
+```mermaid
+timeline
+    title Career Timeline
+    2022-2023 : Baidu Recommendation Architecture
+              : Large-scale recommendation systems
+              : Algorithm optimization
+    2023-2025 : Tencent Gaming Platform
+              : Backend architecture
+              : Microservices design
+    2025-Now  : Tencent Video Channel
+              : Recommendation backend
+              : Real-time systems
