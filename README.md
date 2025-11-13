@@ -16,13 +16,6 @@
 Building comprehensive learning resources for recommendation systems architecture to help engineers master end-to-end recommendation solutions.
 
 ---
-
-Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/zhixingchen0629/count.svg) visitor. Thank you for stopping by! 🎉
-
-![zhixingchen0629's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhixingchen0629&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixingchen0629&layout=compact&theme=tokyonight)
-
 ### 📊 Professional Journey
 ```mermaid
 timeline
@@ -36,3 +29,12 @@ timeline
     2025-Now  : Tencent Video Channel
               : Recommendation backend
               : Real-time systems
+--- 
+
+Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/zhixingchen0629/count.svg) visitor. Thank you for stopping by! 🎉
+
+![zhixingchen0629's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhixingchen0629&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixingchen0629&layout=compact&theme=tokyonight)
+
+
